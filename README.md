@@ -98,5 +98,5 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
  -->
 <p align="center">
-  <a href="" target="blank"><img src="src/img/swagger-image.png" width="120" alt="Nest Logo" /></a>
+  <a href="" target="blank"><img src="src/img/swagger-image.png" width="1100" alt="Nest Logo" /></a>
 </p>
